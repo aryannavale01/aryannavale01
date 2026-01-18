@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi — I’m **Aryan Goraksha Navale**, a Computer Science student passionate about web development and programming.  
+Hi — I’m **Aryan Goraksha Navale**, a B.Tech student passionate about web development and programming.  
 I enjoy learning new technologies and building small projects to improve my problem-solving and development skills.
 
 ---
