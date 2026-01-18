@@ -60,9 +60,9 @@ I enjoy learning new technologies and building small projects to improve my prob
 ---
 
 # 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannavale01&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryannavale01&show_icons=true&theme=dark)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aryannavale01&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannavale01&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryannavale01&layout=compact&theme=dark)
 
 ---
 
